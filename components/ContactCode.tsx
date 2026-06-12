@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: 'website',
     link: 'Ramakant.com',
-    href: '#',
+    href: 'https://stately-paletas-154e38.netlify.app/',
   },
   {
     social: 'email',
